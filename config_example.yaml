@@ -1,0 +1,6 @@
+# Example configuration for FibroPredict paths
+# Fill in values for your environment
+LIVER_MAIN_DIR:    # e.g., /path/to/liver_main_dir
+MONTH_STRING:      # e.g., 2022_04
+SAFE_OUTPUT_PATH:  # e.g., /path/to/safe_output
+DATA_DIR:          # e.g., /path/to/preprocessed_data
